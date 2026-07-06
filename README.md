@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there, I'm Bhagyasri Yallapi 👋</h1>
 
 <p align="center">
@@ -107,4 +106,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yallapibhagyasri&style=flat-square&color=blue" alt="visitor badge"/>
 </p>
-```
